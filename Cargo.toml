@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "rust_kafka_producer",
+    "rust_kafka_consumer",
+]

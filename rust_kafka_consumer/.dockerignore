@@ -1,0 +1,29 @@
+# Archivos de compilación de Rust
+target
+**/target
+
+# Archivos de configuración del entorno
+.env
+*.env
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Archivos de Git
+.git
+.gitignore
+
+# Archivos de logs
+*.log
+
+# Archivos de pruebas y cobertura
+coverage/
+*.profraw
+*.profdata
