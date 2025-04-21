@@ -85,9 +85,9 @@ curl -X POST http://localhost:3000/send \
 
 ## ✨ Future Plans
 
-- Añadir métricas Prometheus
-- Soporte para múltiples topics y particiones
-- Persistencia y procesamiento adicional
+- Add Prometheus metrics
+- Support for multiple topics and partitions
+- Persistence and additional processing
 
 ---
 
